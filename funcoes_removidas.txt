@@ -1,0 +1,11 @@
+           ## box para definir a partir de que lingua será feita a escrita##
+# writting_text = tk.StringVar()
+
+# auto_detected = ttk.Combobox(root, width=14, textvariable=writting_text, state='disabled', font=('Arial', 8, 'bold'))
+# auto_detected['values'] = ('Auto Fill',)
+# auto_detected.place(x=9, y=8)
+# auto_detected.current(0)
+
+            ##botão para limpar o texto
+# button_clear = Button(root, text='X', relief=RAISED, borderwidth=0.5, font=('arial', 8, 'bold'), bg='#1c1c1c', fg='gray', cursor='hand2')
+# button_clear.place(x=221, y=50)
